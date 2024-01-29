@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Como usuario de cinemark deseo registrarme e ingresar al portal" skipped="0" tests="3" time="252.48" timestamp="2024-01-28 07:57:00"><testcase name="Crear cuenta"/><testcase name="Login"/><testcase name="Comprar pelicula"/></testsuite>
